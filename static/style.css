@@ -1,0 +1,28 @@
+
+.form-group{
+    padding: 0;
+    margin-top: 0;
+    width:50%;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+
+.form-group label{
+    margin-left: 200px;
+}
+
+.Position a{
+    margin-left: 270px;
+}
+
+.cardleft{
+    float: left;
+    width:40%;
+    margin:20px 50px;
+}
+
+.cardright{
+    float: right;
+    width: 40%;
+    margin: 20px 50px;
+}
