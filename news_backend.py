@@ -6,7 +6,7 @@ from newsapi import NewsApiClient
 
 
 txt="newsbias.txt"
-newsapi = NewsApiClient(api_key='2ff91790477c4ceab63eed00a944a280')
+newsapi = NewsApiClient(api_key='probably should not post this online?')
 
 #uses the NewsApiClient to, given a list of sources, produce a JSON list of all articles available
 def get_news(source_list):
