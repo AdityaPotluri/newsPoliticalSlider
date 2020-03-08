@@ -1,9 +1,0 @@
-news-api-key:2ff91790477c4ceab63eed00a944a280
-
-Remember to credit news api for powering you (check site)
-
-
-Removed  sources 
----The Guardian,42 
----New York Times,37
----ABC News,1 
